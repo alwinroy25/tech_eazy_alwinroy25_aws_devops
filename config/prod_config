@@ -1,0 +1,4 @@
+INSTANCE_TYPE="t2.medium"
+GIT_REPO="https://github.com/techeazy-consulting/techeazy-devops"
+JAVA_VERSION="19"
+RUN_DURATION=600
